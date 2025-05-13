@@ -42,7 +42,7 @@
 
 ## 📱 Contato
 
-💼 LinkedIn: [@seuusuario](https://www.linkedin.com/in/joselueslefe)
-🐙 GitHub: [@seuusuario](https://github.com/joselueslefe)
-📸 Instagram: [@seuusuario](https://www.instagram.com/joselueslefee)
+💼 LinkedIn: [@joselueslefe](https://www.linkedin.com/in/joselueslefe)
+🐙 GitHub: [@joselueslefe](https://github.com/joselueslefe)
+📸 Instagram: [@joselueslefee](https://www.instagram.com/joselueslefee)
 
